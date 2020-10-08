@@ -1,0 +1,31 @@
+{
+  "target": "AkemiSwitcher",
+  "data": {
+    "servers": [
+      {
+        "host": "c.ppy.sh",
+        "newTarget": "51.83.241.127"
+      },
+      {
+        "host": "c4.ppy.sh",
+        "newTarget": "51.83.241.127"
+      },
+      {
+        "host": "c5.ppy.sh",
+        "newTarget": "51.83.241.127"
+      },
+      {
+        "host": "c6.ppy.sh",
+        "newTarget": "51.83.241.127"
+      },
+      {
+        "host": "a.ppy.sh",
+        "newTarget": "51.83.241.127"
+      },
+      {
+        "host": "s.ppy.sh",
+        "newTarget": "51.83.241.127"
+      } 
+    ]
+  }
+}
