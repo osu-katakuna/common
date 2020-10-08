@@ -7,6 +7,10 @@
         "newTarget": "51.83.241.127"
       },
       {
+        "host": "ce.ppy.sh",
+        "newTarget": "51.83.241.127"
+      },
+      {
         "host": "c4.ppy.sh",
         "newTarget": "51.83.241.127"
       },
@@ -25,7 +29,23 @@
       {
         "host": "s.ppy.sh",
         "newTarget": "51.83.241.127"
-      } 
+      },
+      {
+        "host": "delta.ppy.sh",
+        "newTarget": "51.83.241.127"
+      },
+      {
+        "host": "osu.ppy.sh",
+        "newTarget": "51.83.241.127"
+      },
+      {
+        "host": "i.ppy.sh",
+        "newTarget": "51.83.241.127"
+      },
+      {
+        "host": "bm6.ppy.sh",
+        "newTarget": "51.83.241.127"
+      }
     ]
   }
 }
