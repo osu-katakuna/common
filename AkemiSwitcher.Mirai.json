@@ -1,0 +1,13 @@
+{
+  "target": "AkemiSwitcher",
+  "data": {
+    "versions": [
+      {
+        "versionCode": "1.3.7.6",
+        "hash": "B49BDEF9F11F9A8BA6F2CCB69AFA858B",
+        "versionData": "18D433009921B6A154C07BCFABEEFB40",
+        "downloadURL": "https:\/\/katakuna.cc\/static\/AkemiSwitcher\/1.3.7.6\/AkemiSwitcher.exe"
+      }
+    ]
+  }
+}
